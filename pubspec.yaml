@@ -32,9 +32,14 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   # State Management
+  riverpod: ^2.4.1
   flutter_riverpod: ^2.4.1
+  flutter_hooks: ^0.20.2
   # Cachesing
   shared_preferences: ^2.2.1
+  # Services
+  http: ^1.1.0
+
 
 
 
